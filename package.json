@@ -1,0 +1,24 @@
+{
+  "name": "recipe-testing",
+  "version": "1.0.0",
+  "description": "recipe testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahador/recipe-testing.git"
+  },
+  "author": "bahador nosrat <bahador.nosrat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahador/recipe-testing/issues"
+  },
+  "homepage": "https://github.com/bahador/recipe-testing#readme",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^3.1.0",
+    "underscore": "^1.8.3"
+  }
+}
